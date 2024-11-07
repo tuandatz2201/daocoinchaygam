@@ -1,0 +1,2 @@
+# daocoinchaygam
+shell:startup 
